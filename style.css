@@ -1,0 +1,16 @@
+html, head, body {
+	background-color: white;
+}
+
+body {
+	font-family: 'Comfortaa', cursive, sans-serif;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #4787ff;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
