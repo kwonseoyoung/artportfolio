@@ -13,6 +13,21 @@ a:hover {
 	color: #4787ff;
 }
 
+div.motivational {
+    position: absolute;
+    width: 225px;
+    height: 40px;
+    top: 20px; 
+    right: 15px; 
+    color: white;
+    background-color: #75ffe1;
+    padding: 10px;
+    transition: width .5s;
+}
+
+div.motivational:hover {
+    width: 260px;
+}
 
 /*Main cards on home*/
 
