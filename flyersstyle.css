@@ -1,0 +1,20 @@
+html, body {
+	font-family: 'Comfortaa', cursive, sans-serif;
+	color: black;
+	background-color: #ccfbff; /*lavender-ish*/
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #4787ff;
+}
+
+
+
+::-webkit-scrollbar { 
+    display: none; 
+}
