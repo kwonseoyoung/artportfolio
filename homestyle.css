@@ -46,6 +46,11 @@ div.flyers:hover {
     width: 260px;
 }
 
+img.scratchgame {
+    display: block;
+    margin: auto;
+}
+
 /*Main cards on home*/
 
 .card {
