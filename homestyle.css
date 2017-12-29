@@ -29,6 +29,23 @@ div.motivational:hover {
     width: 260px;
 }
 
+
+div.flyers {
+    position: absolute;
+    width: 225px;
+    height: 40px;
+    top: 70px; 
+    right: 15px; 
+    color: white;
+    background-color: #79ffa6;
+    padding: 10px;
+    transition: width .5s;
+}
+
+div.flyers:hover {
+    width: 260px;
+}
+
 /*Main cards on home*/
 
 .card {
